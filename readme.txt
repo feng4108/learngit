@@ -1,3 +1,2 @@
-Git is a vesion control system.
-
-Git is free software.
+Git is a distributed vesion control system.
+Git is free software distributed under GPL.
