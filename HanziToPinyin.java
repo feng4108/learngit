@@ -570,7 +570,9 @@ public class HanziToPinyin {
         sb.setLength(0);
     }
 
-    // 输入汉字返回拼音的通用方法函数。
+    /**
+	*输入汉字返回拼音的通用方法函数。
+	*/
     public String getPinYin(String hanzi) {
         ArrayList<Token> tokens = get(hanzi);
         StringBuilder sb = new StringBuilder();
